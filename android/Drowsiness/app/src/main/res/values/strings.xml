@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Drowsiness</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="bg_arrays">
+
+        <item>Volume</item>
+        <item>30</item>
+        <item>60</item>
+        <item>100</item>
+        </string-array>
+
+</resources>
